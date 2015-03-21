@@ -39,10 +39,8 @@ gradle.properties
 # Keep vendor libs out of repo
 lib/
 
-.metadata/
-build/
-.gradle/
-
-.idea
-.metadata
+gen
+.classpath
+.project
+bin
 build
