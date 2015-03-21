@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CountryPicker</string>
+    <string name="show_dialog">Show Country Dialog</string>
+
+</resources>
