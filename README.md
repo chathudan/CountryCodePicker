@@ -3,7 +3,7 @@
 CountryCodePicker will help users to 
 
 1. Search and select Country 
-2. Get selected counry's country name,code,currency and dial code (Sri Lanka,LK,LKR,+94)
+2. Get selected country's  name,code,currency and dial code (Sri Lanka,LK,LKR,+94)
 
 
 
