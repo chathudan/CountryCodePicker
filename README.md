@@ -52,3 +52,7 @@ picker.setListener(new CountryPickerListener() {
 });
 ```
 
+##License
+
+CountryCodePicker is released under the <a href="https://raw.githubusercontent.com/chathudan/CountryCodePicker/master/LICENSE.md">Apache License Version 2.0.</a>
+
