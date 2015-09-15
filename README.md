@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/chathudan/CountryCodePicker.svg?branch=master)](http://www.android-gems.com/lib/chathudan/CountryCodePicker)
+
 # CountryCodePicker
 
 CountryCodePicker will help users to 
