@@ -17,7 +17,7 @@ CountryCodePicker will help users to
 
 ## Usage
 
-#####CountryCodePicker on own layout 
+##### CountryCodePicker on own layout 
 
 
 
@@ -32,7 +32,7 @@ transaction.commit();
 ```
 
 
-#####CountryCodePicker as Android Dialog 
+##### CountryCodePicker as Android Dialog 
 
 
 
@@ -42,7 +42,7 @@ transaction.commit();
 ```
 
 
-#####CountryPickerListener to get selected country's details
+##### CountryPickerListener to get selected country's details
 
 
 
@@ -54,7 +54,7 @@ picker.setListener(new CountryPickerListener() {
 });
 ```
 
-##License
+## License
 
 CountryCodePicker is released under the <a href="https://raw.githubusercontent.com/chathudan/CountryCodePicker/master/LICENSE.md">Apache License Version 2.0.</a>
 
